@@ -1,5 +1,5 @@
 {
-  "name": "kittinan/php-http",
+  "name": "gighomework/php-http",
   "description": "php-http is a simple HTTP class with php5-curl",
   "license": "MIT",
   "require": {
